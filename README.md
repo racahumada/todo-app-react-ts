@@ -1,3 +1,8 @@
+<h1>Todo App</h1>
+
+Atividade realizada durante a execução do curso, usando ReactJs, Typescript, UI Kit e localstorage.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
